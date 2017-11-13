@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  newsReader
 //
-//  Created by Vasil Nunev on 30/10/2016.
+//  Created by Jitendra on 12/11/2017.
 //  Copyright © 2016 Nunev. All rights reserved.
 //
 
