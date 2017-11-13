@@ -3,7 +3,7 @@
 //  newsReader
 //
 //  Created by Jitendra on 12/11/2017.
-//  Copyright © 2016 Nunev. All rights reserved.
+//  Copyright © 2017 Jitendra. All rights reserved.
 //
 
 import UIKit
