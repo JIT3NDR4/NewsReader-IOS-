@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  newsReader
 //
-//  Created by Vasil Nunev on 30/10/2016.
-//  Copyright © 2016 Nunev. All rights reserved.
+//  Created by Jitendra on 12/11/2017.
+//  Copyright © 2017 Jitendra. All rights reserved.
 //
 
 import UIKit
