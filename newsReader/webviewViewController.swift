@@ -1,10 +1,3 @@
-//
-//  webviewViewController.swift
-//  newsReader
-//
-//  Created by Delta Force on 27/10/17.
-//  Copyright © 2017 Nunev. All rights reserved.
-//
 
 import UIKit
 
@@ -20,10 +13,5 @@ class webviewViewController: UIViewController {
         webview.loadRequest(URLRequest(url: URL(string: url!)!))
         // Do any additional setup after loading the view.
     }
-
-  
-    
-    
-  
 
 }
